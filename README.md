@@ -3,9 +3,13 @@
 The most powerful and complete FiveM QBCore server package ever made — perfected from V1 to V10 over 2+ years, with $12,000+ investment on v10.
 
 ✅ 400+ Premium Scripts  
+
 ✅ Custom Jobs, Systems, UIs, MLOs, Vehicles  
+
 ✅ Fully Plug & Play Setup — No coding required  
+
 ✅ Ultra-optimized — Resmon
+
 ✅ DMCA Protected — Exclusive to **QBCore Store**
 
 ---

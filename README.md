@@ -2,7 +2,7 @@
 
 Preview: https://www.youtube.com/watch?v=s-RfzeSdVcY
 
-The most powerful and complete FiveM QBCore server package ever made — perfected from V1 to V10 over 2+ years, with $12,000+ investment on v10.
+The most powerful and complete FiveM QBCore server package ever made — perfected from V1 to V10 over 2+ years, with $12,000+ investment on v10..
 
 
 ✅ 400+ Premium Scripts  
